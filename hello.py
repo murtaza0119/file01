@@ -1,2 +1,2 @@
 hello.py
-the python has written in c language
+print(the python has written in c language)
